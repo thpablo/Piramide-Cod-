@@ -11,7 +11,7 @@ class Piramide
         if (N>=2 && N<=50 && M>=2 && M<=50)     //Verificar Entradas
             verificarcondicao(N, M);            //Funcao Verificar Regra Geral
         else 
-        Console.WriteLine("Insira numeros entre 2 e 50");
+            Console.WriteLine("Insira numeros entre 2 e 50");
     }
     static void verificarcondicao(int N, int M)
     {
