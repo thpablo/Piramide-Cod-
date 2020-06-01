@@ -1,5 +1,5 @@
 ﻿using System;
-class Program
+class Piramide
 {
     static void Main(string[] args)
     {
